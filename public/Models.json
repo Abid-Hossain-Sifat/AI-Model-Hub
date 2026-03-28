@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "Versatile AI assistant for writing, research, coding, and image generation.\nPowers creative and everyday tasks with GPT models.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "Claude",
+    "description": "Advanced AI for long-form writing, complex reasoning, and code.\nKnown for safety, nuance, and handling large contexts.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1024px-Claude_AI_logo.svg.png",
+    "status": "popular"
+  },
+  {
+    "id": 3,
+    "title": "Gemini",
+    "description": "Google's multimodal AI integrated with Search and Workspace.\nExcellent for research, images, and productivity in Google ecosystem.",
+    "price": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Google_Gemini_logo.svg/1024px-Google_Gemini_logo.svg.png",
+    "status": "popular"
+  },
+  {
+    "id": 4,
+    "title": "Grok",
+    "description": "Truth-seeking AI from xAI with real-time knowledge and humor.\nBuilt for maximum curiosity and helpfulness.",
+    "price": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Grok_AI_logo.svg/1024px-Grok_AI_logo.svg.png",
+    "status": "favourite"
+  },
+  {
+    "id": 5,
+    "title": "Midjourney",
+    "description": "Leading AI art generator for stunning, artistic images.\nCreates high-quality visuals from text prompts via Discord.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Midjourney_Logo.svg/1024px-Midjourney_Logo.svg.png",
+    "status": "popular"
+  },
+  {
+    "id": 6,
+    "title": "Perplexity",
+    "description": "AI-powered search engine with real-time answers and sources.\nCombines chat with accurate web research.",
+    "price": 20,
+    "image": "https://www.perplexity.ai/favicon.ico",
+    "status": "popular"
+  },
+  {
+    "id": 7,
+    "title": "ElevenLabs",
+    "description": "Ultra-realistic AI voice synthesis and cloning.\nPerfect for podcasts, videos, and narration.",
+    "price": 5,
+    "image": "https://elevenlabs.io/favicon.ico",
+    "status": "favourite"
+  },
+  {
+    "id": 8,
+    "title": "Notion AI",
+    "description": "AI assistant built into Notion for notes, wikis, and tasks.\nSummarizes, generates, and organizes your workspace.",
+    "price": 10,
+    "image": "https://www.notion.so/images/meta/default.png",
+    "status": "mostwanted"
+  }
+]
