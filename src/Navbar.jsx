@@ -1,7 +1,7 @@
 const NavBar = () => {
   return (
     <div>
-        <div className="navbar w-[80%] mx-auto shadow-lg">
+        <div className="navbar w-[95%] md:w[90%] lg:w-[80%] mx-auto shadow-lg">
       <div className="navbar-start">
         <div className="flex items-center gap-1 font-bold text-xl">
           <img className="w-10" src="/logo.png" /> Ai Hub

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Models from "./Models"
 
 const Tabs = () => {
   const [activeTab, setActiveTab] = useState("models");
@@ -33,7 +34,7 @@ const Tabs = () => {
 
       <div className="mt-4">
         {activeTab === "models" ? (
-          <p>Models content here</p>
+          <Models></Models>
         ) : (
           <p>
             Cart content here

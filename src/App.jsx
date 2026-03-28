@@ -4,17 +4,15 @@ import NavBar from './Navbar'
 import Banner from './Banner'
 import Footer from './Footer'
 import Tabs from './Tabs'
-import Cart from './Cart'
+import Models from './Models'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
      <NavBar></NavBar>
      <Banner></Banner>
      <Tabs></Tabs>
-     <Cart></Cart>
      <Footer></Footer>
      
     </>
