@@ -4,7 +4,6 @@ import NavBar from './Navbar'
 import Banner from './Banner'
 import Footer from './Footer'
 import Tabs from './Tabs'
-import Models from './Models'
 
 function App() {
 

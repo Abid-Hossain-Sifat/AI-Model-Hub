@@ -1,16 +1,48 @@
-# React + Vite
+#  🤖 AI Model Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A centralized platform for discovering, testing, and integrating AI models.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Description
 
-## React Compiler
+AI Model Hub is a modern, React-powered platform built to simplify the exploration and usage of AI models. From text generation and image creation to automation and machine learning APIs, it offers a seamless experience for developers and digital creators.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+It focuses on performance, accessibility, and clean UI, allowing users to easily browse, compare, and integrate AI models into their projects.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Technology
+
+- ⚛️ React.js   
+- 🎨 Tailwind CSS + DaisyUI  
+- 🧠 JavaScript (ES6+)  
+- 🔔 React-Toastify  
+- 📦 JSON  
+
+---
+
+
+
+## ✨ Features
+
+### 🔔 Interactive Notifications
+- Integrated with *React-Toastify*  
+- Provides real-time feedback for:
+  - Product added  
+  - Product removed  
+  - Checkout actions  
+
+### 🔢 Dynamic Cart Counter
+- Live cart item counter in the navbar  
+- Updates instantly as users add or remove items
+
+
+---
+## 📸 Preview
+
+<img src="https://ibb.co.com/RGg8fK0p">
+<br />
+
+---

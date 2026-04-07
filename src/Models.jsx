@@ -9,7 +9,7 @@ const Models = ({ models, onSubscribe, cartItems }) => {
         {models.map((m) => (
           <div key={m.id} className="group relative bg-white border border-gray-100 rounded-4xl shadow-2xl overflow-hidden flex flex-col transition-transform ">
             {m.status && (
-              <div className="absolute top-5 right-[-5px] z-10">
+              <div className="absolute top-5 -right-1.25 z-10">
                 <span className={`pl-4 pr-3 py-1.5 text-[11px] font-bold text-white uppercase rounded-l-full shadow-lg flex items-center gap-1.5 ${m.status === 'popular' ? 'bg-[#ff1d1d]' : m.status === 'favourite' ? 'bg-[#ff8a00]' : 'bg-[#ffcc00]'}`}>
                   {m.status === 'popular' && "🔥"} {m.status}
                 </span>
