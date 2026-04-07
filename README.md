@@ -42,7 +42,7 @@ It focuses on performance, accessibility, and clean UI, allowing users to easily
 ---
 ## 📸 Preview
 
-<img src="https://ibb.co.com/RGg8fK0p">
+<img src="https://i.ibb.co.com/GfdmyD2v/screencapture-ai-model-hub-by-abid-netlify-app-2026-04-07-23-42-08.png">
 <br />
 
 ---
