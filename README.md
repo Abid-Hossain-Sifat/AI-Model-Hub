@@ -61,7 +61,7 @@ Make sure you have the following installed:
 - 💻 A code editor like VS Code
 - 📥 1. Clone the Repository
 ```js
- git clone: https://github.com/your-username/digitools-platform.git
+ git clone: https://github.com/Abid-Hossain-Sifat/AI-Model-Hub.git
 cd digitools-platform
 ```
 - 📦 2. Install Dependencies
