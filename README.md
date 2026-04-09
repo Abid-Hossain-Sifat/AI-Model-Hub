@@ -46,3 +46,51 @@ It focuses on performance, accessibility, and clean UI, allowing users to easily
 <br />
 
 ---
+
+
+## 🚀 Run Locally
+
+Follow these steps to run the DigiTools Platform on your local machine:
+
+## 📌 Prerequisites
+
+Make sure you have the following installed:
+
+- 🟢 Node.js (v14 or higher)
+- 📦 npm (comes with Node.js)
+- 💻 A code editor like VS Code
+- 📥 1. Clone the Repository
+```js
+ git clone: https://github.com/your-username/digitools-platform.git
+cd digitools-platform
+```
+- 📦 2. Install Dependencies
+```js
+npm install
+```
+
+### This will install all required packages like React, Tailwind CSS, DaisyUI, and others.
+
+- ▶️ 3. Start the Development Server
+```js
+npm run dev
+```
+
+### If the project uses Create React App, use:
+
+### npm start
+
+
+- 🌐 4. Open in Browser
+
+### After running the server, open your browser and go to:
+
+http://localhost:5173
+
+or
+
+http://localhost:3000
+
+
+
+### Now you can explore and modify the DigiTools Platform locally 🎉
